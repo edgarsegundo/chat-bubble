@@ -292,6 +292,9 @@ function Bubbles(container, self, options) {
       }
       setTimeout(scrollBubbles, animationTime / 2)
     }, wait + animationTime * 2)
+
+
+
   }
 
   // recall previous interactions
